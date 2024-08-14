@@ -6,7 +6,7 @@ export default function App() {
   return (
     <SnackbarProvider>
       <CssBaseline />
-      <AppRoutes />/
+      <AppRoutes />
     </SnackbarProvider>
   );
 }
